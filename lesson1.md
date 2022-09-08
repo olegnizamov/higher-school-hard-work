@@ -507,3 +507,12 @@ class ActivitiesHandler
 }
 ```
 
+
+
+## Решение
+[Исходник](KtAgreement.php)
+[Результат](KtAgreement_result.php)
+
+Был проведен рефакторинг методов:
+- checkProjectCodeField - вынесен в отдельный метод код и SWITCH удален и изменен на массив данных
+- getAgreementNumString - удаление else
