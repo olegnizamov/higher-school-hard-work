@@ -74,3 +74,6 @@ done > //home/olegnizamov/projects/pgktest.bitrixdemo24.ru/local/nameFile.txt
 
 4) сколько ошибок в нём выявило фазз-тестирование - не смог использовать для проекта. Нашел аналог через composer, однако думаю это не совсем то https://github.com/nikic/PHP-Fuzzer
 
+Видео для подготовки:
+https://www.youtube.com/watch?v=y_AqeZdFfXM
+https://www.youtube.com/watch?v=8aWwRgorR4U
