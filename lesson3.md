@@ -12,23 +12,22 @@
 
 4. Сделайте небольшой отчёт с примерами кода из пп. 1 и 3 и вашими комментариями.
 
-
 Прикрепляю материалы с нашей работы:
 Классы:
-![](files/ls3/activitieshandler.php)
-![](files/ls3/contactshandler.php)
-![](files/ls3/dealshandler.php)
-![](files/ls3/emailshandler.php)
-![](files/ls3/epiloghandler.php)
-![](files/ls3/leadshandler.php)
 
+![activitieshandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/activitieshandler.php)
+![contactshandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/contactshandler.php)
+![dealshandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/dealshandler.php)
+![emailshandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/emailshandler.php)
+![epiloghandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/epiloghandler.php)
+![leadshandler](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/leadshandler.php)
 
 Тестовое покрытие:
-![](files/ls3/ActivityBindingCollectionTest.php)
-![](files/ls3/BitrixTestCase.php)
-![](files/ls3/CompanyTest.php)
-![](files/ls3/ContactTest.php)
-![](files/ls3/DealCollectionTest.php)
-![](files/ls3/DealTableTest.php)
-![](files/ls3/EventHandlerTest.php)
-![](files/ls3/LeadTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/ActivityBindingCollectionTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/BitrixTestCase.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/CompanyTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/ContactTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/DealCollectionTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/DealTableTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/EventHandlerTest.php)
+![](https://github.com/olegnizamov/higher-school-hard-work/blob/main/files/ls3/LeadTest.php)
